@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/akshat_memer" target="blank"><img src="https://img.shields.io/twitter/follow/akshat_memer?logo=twitter&style=for-the-badge" alt="akshat_memer" /></a> </p>
 
-- 🔭 I’m currently working on **APS : Accident Prevention System**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
