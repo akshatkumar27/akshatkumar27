@@ -1,4 +1,4 @@
-<h3 align="center">A passionate React developer from India</h3>
+<h3 align="center">A passionate React and react native developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatkumar27&label=Profile%20views&color=0e75b6&style=flat" alt="akshatkumar27" /> </p>
 
